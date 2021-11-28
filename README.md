@@ -1,6 +1,6 @@
 # HW14-DeepLearning
 
-## CLOSING PRICE
+## HW Questions
 
 ### Which model has a lower loss?
 
